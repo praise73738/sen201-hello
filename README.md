@@ -1,2 +1,7 @@
-SEN 201 Task
-Python Hello World Program
+
+# SEN 201 Task
+
+This repository contains a simple Python program that prints "Hello, World".
+
+## File
+- hello.py
